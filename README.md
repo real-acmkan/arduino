@@ -5,4 +5,4 @@ This repository contains Arduino projects/scripts that I've made
 -RF Transmitter (315mHz)
 
 # Soon to be included:
--RF Receiver (315mHZ)
+-Joystick servo controller
